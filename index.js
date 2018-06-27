@@ -64,6 +64,10 @@ function makeInt(n){
 a = Math.floor(Math.random() * 1000)
 b = Math.floor(Math.random() * 1000)
 function preserveDecimal(n){
-  return parseFloat(a);
+ 
+  
+  isNaN(preserveDecimal('sldkjflksjf')){
+    return true;
+  }
   
 }
