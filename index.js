@@ -46,7 +46,7 @@ function dec(a){
 a = Math.floor(Math.random() * 1000)
 b = Math.floor(Math.random() * 1000)
 function makeInt(n){
-  makeInt(a.toString()){
+  makeInt(n.toString()){
     return a;
   }
   makeInt('0x2328'){
