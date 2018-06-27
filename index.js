@@ -49,7 +49,9 @@ function makeInt(n){
   makeInt(a.toString()){
     return a;
   }
-  makeInt()
+  makeInt('0x2328'){
+    return 0;
+  }
   
   
   return parseInt(a, 10);
