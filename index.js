@@ -30,4 +30,8 @@ function dec(a){
   
 }
 
-function 
+function makeInt(a){
+  return parseInt('a', 10);
+  
+}
+
