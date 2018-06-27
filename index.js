@@ -46,7 +46,10 @@ function dec(a){
 a = Math.floor(Math.random() * 1000)
 b = Math.floor(Math.random() * 1000)
 function makeInt(n){
-  makeInt(a.toString());
+  makeInt(a.toString()){
+    return a;
+  }
+  
   
   return parseInt(a, 10);
   
