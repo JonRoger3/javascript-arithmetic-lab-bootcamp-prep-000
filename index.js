@@ -49,6 +49,7 @@ function makeInt(n){
   makeInt(a.toString()){
     return a;
   }
+  makeInt()
   
   
   return parseInt(a, 10);
