@@ -52,6 +52,9 @@ function makeInt(n){
   makeInt('0x2328'){
     return 0;
   }
+  isNaN(makeInt('sldkjflksjf')){
+    return true;
+  }
   
   
   return parseInt(a, 10);
