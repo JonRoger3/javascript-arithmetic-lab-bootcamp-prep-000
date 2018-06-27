@@ -48,7 +48,8 @@ b = Math.floor(Math.random() * 1000)
 function makeInt(n){
   makeInt(n.toString()){
     return a;
-  }
+
+}
   makeInt('0x2328'){
     return 0;
   }
